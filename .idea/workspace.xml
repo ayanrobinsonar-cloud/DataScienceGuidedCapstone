@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff7fbcf-8a71-4a2e-9f0f-f3521bed543e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DataScienceGuidedCapstone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScienceGuidedCapstone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Notebooks/02_data_wrangling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/02_data_wrangling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/04_preprocessing_and_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/04_preprocessing_and_training.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001184057593864" />
+      <entry key="S2" value="1.1111702752582824" />
+      <entry key="S5" value="1.5487252894509245" />
+      <entry key="S10" value="2.1386454037023928" />
+      <entry key="S30" value="3.7799741647661556" />
+      <entry key="S60" value="5.100708663790844" />
+      <entry key="M2" value="6.565082927637378" />
+      <entry key="M5" value="9.432459294216832" />
+      <entry key="M10" value="13.171473242333564" />
+      <entry key="M15" value="16.23717732871759" />
+      <entry key="M30" value="23.865126128183142" />
+      <entry key="H1" value="33.815221884043886" />
+      <entry key="H2" value="42.85515778068199" />
+      <entry key="H4" value="49.121766421760846" />
+      <entry key="D1" value="68.4804764406538" />
+      <entry key="W1" value="133.51848112945112" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.4220518635243563E-84" />
+      <entry key="S5" value="2.9204382749964423E-34" />
+      <entry key="S10" value="1.8698248694963315E-17" />
+      <entry key="S30" value="3.786556630973443E-6" />
+      <entry key="S60" value="0.002966800397624355" />
+      <entry key="M2" value="0.10778108890475743" />
+      <entry key="M5" value="1.4389112474920935" />
+      <entry key="M10" value="4.3244570063430565" />
+      <entry key="M15" value="6.948412017991307" />
+      <entry key="M30" value="13.465743470554543" />
+      <entry key="H1" value="21.35542774026553" />
+      <entry key="H2" value="28.065287238792198" />
+      <entry key="H4" value="32.53592498318193" />
+      <entry key="D1" value="37.63621741360657" />
+      <entry key="W1" value="42.18505798917079" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.79908100835628E-9" />
+      <entry key="MS500" value="0.02448429764465053" />
+      <entry key="S2" value="0.4067407360003244" />
+      <entry key="S5" value="0.917159179377469" />
+      <entry key="S10" value="1.5821488665329817" />
+      <entry key="S30" value="3.4171386475840206" />
+      <entry key="S60" value="4.866954909559207" />
+      <entry key="M2" value="6.529192295328602" />
+      <entry key="M5" value="10.787033167216117" />
+      <entry key="M10" value="17.429725337016787" />
+      <entry key="M15" value="23.127611348045285" />
+      <entry key="M30" value="37.286140955569586" />
+      <entry key="H1" value="55.139400383434015" />
+      <entry key="H2" value="70.90114447098087" />
+      <entry key="H4" value="81.64682859369033" />
+      <entry key="D1" value="106.11456508737564" />
+      <entry key="W1" value="175.7031426902429" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -48,7 +111,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -65,10 +129,34 @@
       <workItem from="1779841103594" duration="705000" />
       <workItem from="1779919277295" duration="3000" />
       <workItem from="1779919903351" duration="193000" />
+      <workItem from="1779920832885" duration="112000" />
+      <workItem from="1779920973855" duration="31463000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Notebooks/02_data_wrangling.ipynb</url>
+          <line>371</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
