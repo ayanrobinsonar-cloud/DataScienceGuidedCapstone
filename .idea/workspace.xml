@@ -136,6 +136,7 @@
       <workItem from="1779920973855" duration="31820000" />
       <workItem from="1780612608336" duration="6610000" />
       <workItem from="1781044283380" duration="8511000" />
+      <workItem from="1781271350549" duration="1113000" />
     </task>
     <servers />
   </component>
@@ -152,16 +153,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb</url>
-          <line>43</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
