@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dff7fbcf-8a71-4a2e-9f0f-f3521bed543e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,7 @@
       <workItem from="1779920973855" duration="31820000" />
       <workItem from="1780612608336" duration="6610000" />
       <workItem from="1781044283380" duration="8511000" />
-      <workItem from="1781271350549" duration="2554000" />
+      <workItem from="1781271350549" duration="3601000" />
     </task>
     <servers />
   </component>
@@ -153,5 +152,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb</url>
+          <line>516</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
